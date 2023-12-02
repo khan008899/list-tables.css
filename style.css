@@ -1,0 +1,153 @@
+/* Unorder Lists */
+/* ul{
+ list-style-type: decimal;
+} */
+
+
+
+/* order lists */
+/* ol{
+    list-style-type: decimal-leading-zero;
+} */
+
+/* images for bullets */
+/* ul{
+    list-style-image: url('./images/download.png');
+} */
+
+/* List style position  */
+
+/* .illuminations{
+    list-style-position: outside;
+}
+
+.season{
+    list-style-position: inside;
+} */
+
+/* Lists Shorhand in css */
+
+/* ul{
+     list-style: inside circle; width: 300px;
+} */
+
+
+/* table properties */
+
+/* table,td,th{
+    border: 2px solid red;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+table{
+    /* background-color: aqua; */
+/* } */
+/* tr:hover{
+    background-color: wheat;
+    cursor: pointer;
+}
+
+td{
+    padding: 10px;
+} */
+/* th{
+    background-color: black;
+    color: white;
+} */
+
+/* .even{
+    background-color: black;
+    color: wheat;
+} */
+
+/* EMTY CELLS */
+/* td{
+    border: 2px solid blue;
+    padding: 15px;
+}
+
+table{
+empty-cells: show;
+} */
+
+/* Gaps between cells */
+
+/* td{
+    background-color: blue;
+    padding: 15px;
+    border: 2px solid black;
+
+}
+table{
+    border-collapse: collapse;
+
+} */
+
+
+/* form styling  */
+
+/* #n1{
+margin-top: 5px;
+}
+
+input{
+    font-size: xx-large;
+    color: red;
+    background-color: black;
+    color: wheat;
+} */
+
+/* input{
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+input:hover{
+background-color: lightblue;
+}
+
+input:focus{
+    border: 5px solid red;
+    outline: none;
+}
+  */
+
+
+/* #email{
+    background-image: url('./images/post.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+#github{
+    background-image: url('./images/github.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+} */
+
+/* Styling fieldset and legend */
+/* fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+}
+
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+} */
+
+
+    /* cursor sTYLING */
+
+    #submit-btn:hover{
+        cursor: pointer;
+    }
